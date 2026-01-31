@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsha Agarwal</h1>
 
-<h2 I'm here to integrate accounting workflows and data accuracy into structured, web-based solutions.></h2>
+<h3 I'm here to integrate accounting workflows and data accuracy into structured, web-based solutions.></h3>
 
 ---
 
