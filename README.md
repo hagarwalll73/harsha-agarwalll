@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsha Agarwal</h1>
 ---
+<h2 I'm here to integrate accounting workflows and data accuracy into structured, web-based solutions.></h2>
+
+---
 
 ## 💡 About Me
 - 🎓 BCA (2022–2025), BCom (H) (2021–2024)
-- 📘 CS  – Pursuing
+- 📘 CS – Pursuing
 - 🌱 Hands-on knowledge HTML, CSS, JavaScript
 - 💼 Interested in business-focused web solutions
 - 🎯 Goal: Build simple, practical websites/app
@@ -33,17 +36,10 @@
 
 ---
 
-## 🎓 Education
-- Bachelor of Computer Applications (BCA)
-- Bachelor of Commerce (Honours)
-- CS Executive (Pursuing)
-
----
-
 ## 📫 Contact
 - 📧 Email: h.agarwalll73@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/harsha-agarwalll
 
 ---
 
-⭐ *Blending technical skills with business understanding to create meaningful web applications.*
+
