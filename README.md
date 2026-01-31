@@ -13,9 +13,9 @@
 ## 🛠️ Skills
 
 ### 💻 Technical
-- HTML5
-- CSS3
-- JavaScript (Basics)
+- HTML
+- CSS
+- JavaScript 
 - GitHub & GitHub Pages
 - VS Code
 
@@ -41,9 +41,9 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: harshaa730@gmail.com
+- 📧 Email: h.agarwalll73@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/harsha-agarwalll
 
 ---
 
-⭐ *Learning every day and building beginner-friendly projects.*
+⭐ *Blending technical skills with business understanding to create meaningful web applications.*
